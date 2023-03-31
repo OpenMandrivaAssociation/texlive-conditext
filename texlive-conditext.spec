@@ -1,6 +1,6 @@
 Name:		texlive-conditext
 Version:	55387
-Release:	1
+Release:	2
 Summary:	Define and manage conditional content
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/conditext
