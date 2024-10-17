@@ -3,7 +3,7 @@ Version:	55387
 Release:	2
 Summary:	Define and manage conditional content
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/conditext
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/conditext
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/conditext.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/conditext.doc.r%{version}.tar.xz
